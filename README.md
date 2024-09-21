@@ -2,7 +2,7 @@
 ---
 
 
-<h3 align="center">A full stack developer from Rosario, Argentina</h3>
+<h3 align="center">A Full Stack Developer - Tester Manual & automation from Rosario, Argentina</h3>
 
 <hr>
 
@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noelia-ruiz" alt="noelia-ruiz" /></a> </p>
 
-- I’m currently working on **Carpet App**
+- I’m currently working on **Proyecto de Bootcamp Ruby**
 
-- I’m currently learning **Next JS**
+- I’m currently learning **Ruby and Ruby on Rails Framework**
 
 - Ask me about **JavaScript and Node**
 
